@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hola buenas
+
+- **Aprendiendo Github y programación Web en general** (Sí, sé que esto está prácticamente vacío)
+- **Me encantan los autos y el automovilismo** (Muchos mods los he sacado de esta página)
+- **Con esto estoy descubriendo lo que hay detrás de todas las descargas que he hecho a través de acá**
+
+*Me resulta muy interesante todo lo que hay detrás de una comunidad de modding o herramientas sencillas que se acaban publicando aca, de verdad que es todo un mundo aparte.*  
+
+¡Me asombra!
 
 <!--
 **DavidC24/DavidC24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
