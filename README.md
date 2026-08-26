@@ -8,6 +8,12 @@
 
 ¡Me asombra!
 
+### Mi Actividad reciente en GitHub
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <!--
 **DavidC24/DavidC24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
